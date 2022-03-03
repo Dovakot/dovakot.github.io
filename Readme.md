@@ -1,8 +1,5 @@
-#### Cборки:
----
+## Тут должно было быть моё портфолио 🐼
 
-[space-cats](https://dovakot.github.io/space-cats/)
+#### Опубликованные работы:
 
-[mining-factory](https://dovakot.github.io/mining-factory/)
-
-[zenart](https://dovakot.github.io/zenart/)
+* [kvast](https://dovakot.github.io/kvast/)
