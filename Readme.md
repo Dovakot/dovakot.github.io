@@ -2,6 +2,7 @@
 
 #### Опубликованные работы:
 
+* [Интернет-магазин по продаже гитар «Guitar Shop»](https://guitar-shop-yakovleva.vercel.app/)
 * [Онлайн-кинотеатр «Что посмотреть»](https://what-to-watch-three.vercel.app/)
 * [Сервис для фанатов большого кино «Киноман»](https://dovakot.github.io/cinemaddict/)
 * [Конвертер валют «Лига Банк»](https://ligabank-three.vercel.app/)
